@@ -1,3 +1,0 @@
-C:/Users/Kingdel/CLionProjects/Grep/cmake-build-debug/CMakeFiles/Grep.dir
-C:/Users/Kingdel/CLionProjects/Grep/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Kingdel/CLionProjects/Grep/cmake-build-debug/CMakeFiles/rebuild_cache.dir
